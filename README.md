@@ -9,4 +9,4 @@ Explore the 10 Academy Moodle logs stored in the database together with many oth
 # Data
 
 
-You can download the anonymised 10 Academy moodle postgres database copy here
+You can download the anonymised 10 Academy moodle postgres database copy https://drive.google.com/file/d/1JQT4wDgH1qJQ_ghrn9tt6nU3XckihlUc/view?usp=sharing
